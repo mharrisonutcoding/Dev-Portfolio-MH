@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dev-portfolio-mh/static/css/main.af3c3b1f.css",
-    "main.js": "/dev-portfolio-mh/static/js/main.bf6cc9e3.js",
-    "static/media/The-Book-Club.gif": "/dev-portfolio-mh/static/media/The-Book-Club.f6bc12b1c15fe2a120ef.gif",
-    "static/media/RefactoringChallenge.gif": "/dev-portfolio-mh/static/media/RefactoringChallenge.1f6a1b60aa3032dcd917.gif",
-    "static/media/NoteTakerDemo.gif": "/dev-portfolio-mh/static/media/NoteTakerDemo.1efad3c8218359c4685f.gif",
-    "static/media/DayScheduler.gif": "/dev-portfolio-mh/static/media/DayScheduler.18844683c9fabc909064.gif",
-    "static/media/CodingFactsQuiz.gif": "/dev-portfolio-mh/static/media/CodingFactsQuiz.d3dc455c974fb7c1d2e7.gif",
-    "static/media/gaminggodspic.png": "/dev-portfolio-mh/static/media/gaminggodspic.6f9d68a386881f79738a.png",
-    "static/media/family.jpeg": "/dev-portfolio-mh/static/media/family.aedeade5f8afbbaa98cd.jpeg",
-    "index.html": "/dev-portfolio-mh/index.html",
-    "main.af3c3b1f.css.map": "/dev-portfolio-mh/static/css/main.af3c3b1f.css.map",
-    "main.bf6cc9e3.js.map": "/dev-portfolio-mh/static/js/main.bf6cc9e3.js.map"
+    "main.css": "/Dev-Portfolio-MH/static/css/main.af3c3b1f.css",
+    "main.js": "/Dev-Portfolio-MH/static/js/main.e66b7b3a.js",
+    "static/media/The-Book-Club.gif": "/Dev-Portfolio-MH/static/media/The-Book-Club.f6bc12b1c15fe2a120ef.gif",
+    "static/media/RefactoringChallenge.gif": "/Dev-Portfolio-MH/static/media/RefactoringChallenge.1f6a1b60aa3032dcd917.gif",
+    "static/media/NoteTakerDemo.gif": "/Dev-Portfolio-MH/static/media/NoteTakerDemo.1efad3c8218359c4685f.gif",
+    "static/media/DayScheduler.gif": "/Dev-Portfolio-MH/static/media/DayScheduler.18844683c9fabc909064.gif",
+    "static/media/CodingFactsQuiz.gif": "/Dev-Portfolio-MH/static/media/CodingFactsQuiz.d3dc455c974fb7c1d2e7.gif",
+    "static/media/gaminggodspic.png": "/Dev-Portfolio-MH/static/media/gaminggodspic.6f9d68a386881f79738a.png",
+    "static/media/family.jpeg": "/Dev-Portfolio-MH/static/media/family.aedeade5f8afbbaa98cd.jpeg",
+    "index.html": "/Dev-Portfolio-MH/index.html",
+    "main.af3c3b1f.css.map": "/Dev-Portfolio-MH/static/css/main.af3c3b1f.css.map",
+    "main.e66b7b3a.js.map": "/Dev-Portfolio-MH/static/js/main.e66b7b3a.js.map"
   },
   "entrypoints": [
     "static/css/main.af3c3b1f.css",
-    "static/js/main.bf6cc9e3.js"
+    "static/js/main.e66b7b3a.js"
   ]
 }
