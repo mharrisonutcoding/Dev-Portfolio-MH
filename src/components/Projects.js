@@ -2,7 +2,7 @@
 import "../App.css";
 import img1 from "../assets/images/The-Book-Club.gif";
 import img2 from "../assets/images/NoteTakerDemo.gif";
-import img3 from "../assets/images/RefactoringChallengegif.gif";
+import img3 from "../assets/images/RefactoringChallenge.gif";
 import img4 from "../assets/images/CodingFactsQuiz.gif";
 import img5 from "../assets/images/DayScheduler.gif";
 import img6 from "../assets/images/gaminggodspic.png"
