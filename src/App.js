@@ -27,11 +27,11 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<AboutMe />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/resume" element={<Resume />} />
-          <Route path="*" element={<AboutMe />} />
+          <Route path="/" element={<AboutMe/>} />
+          <Route path="/projects" element={<Projects/>} />
+          <Route path="/contact" element={<Contact/>} />
+          <Route path="/resume" element={<Resume/>} />
+          <Route path="*" element={<AboutMe/>} />
         </Routes>
         <Footer />
       </Router>
