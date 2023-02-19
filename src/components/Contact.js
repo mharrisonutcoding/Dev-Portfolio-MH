@@ -27,11 +27,10 @@ const Contact = () => {
   return (
     <section>
       <div className="container-contact-form">
-        <h2 ref={form} onSubmit={sendEmail} className="text-center mt-4 mb-4">
-          {" "}
+        <h2 className="text-center mt-4 mb-4">
           Contact Me
         </h2>
-        <form className="form-control card pt-2 pb-2 mx-auto text-center">
+        <form ref={form} onSubmit={sendEmail} className="form-control card pt-2 pb-2 mx-auto text-center">
           <input
             type="text"
             placeholder="Full Name Please"
