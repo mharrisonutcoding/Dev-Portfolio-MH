@@ -82,7 +82,7 @@ export default function Navbar() {
                       target="_blank"
                       rel="noreferrer"
                     >
-                      LinkedIn 
+                      LinkedIn
                     </a>
                   </li>
                 </ul>

@@ -6,6 +6,8 @@
 
 ## Preview
 
+GitHub Pages Deployment: (<https://mharrisonutcoding.github.io/Dev-Portfolio-MH/>)
+
 ![image](./react-dev-portolio/src/assets/images/ReactPortfolio.gif?raw=true "Portfolio Preview")
 
 ## Table of Contents
@@ -19,7 +21,7 @@
 
 To Install:
 
-Clone the repository from GitHub (<https://github.com/mharrisonutcoding/React-Portfolio-Mike>).
+Clone the repository from GitHub (<https://github.com/mharrisonutcoding/Dev-Portfolio-MH>).
 
 Run these command lines in your terminal to install necessary dependencies:
 
